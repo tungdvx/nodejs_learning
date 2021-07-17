@@ -10,3 +10,7 @@ Tung da fix bug 5 o day
 
 Tung da fix bug 7 o day
 Tung da fix bug 6 o day
+
+================================
+END TRAINING 1, START TRAINING 2
+================================
