@@ -14,3 +14,9 @@ Tung da fix bug 6 o day
 ================================
 END TRAINING 1, START TRAINING 2
 ================================
+
+// Start add, Tung fix bug 12
+
+Tung da fix bug 12 o day
+
+// End add, Tung fix bug 12
