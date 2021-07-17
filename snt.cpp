@@ -20,8 +20,11 @@ int snt (int n)
 
 int main ()
 {
-    if (snt(n))
-        cout << n << " la so nguyen to!\n";
+// Start add, Tung add fix bung 23
+    int b; cin >> b;
+    if (snt(b))
+        cout << b << " la so nguyen to!\n";
+// End add, Tung add fix bung 23
 
 // Start add, Tung add fix bung 21
 
@@ -32,7 +35,7 @@ int main ()
             cout << i << " ";
     }
 
-// Start add, Tung add fix bung 21
+// End add, Tung add fix bung 21
 
 
 }
