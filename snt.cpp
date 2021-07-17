@@ -24,23 +24,11 @@ int main ()
     int n;
 // Start add, Tung fix bug 20
 
-// Start add, Tung fix bug 22
-    int m;
-// Start add, Tung fix bug 22
+// Start add, Tung fix bug 20
+    int b;
+    cin >> b;
+// Start add, Tung fix bug 20
 
-    if (snt(n))
-        cout << n << " la so nguyen to!\n";
-
-// Start add, Tung add fix bung 21
-
-    cout  << "Cac so nguyen to be hon " << n << " la:\n";
-    for (int i = 0; i < n ; i++)
-    {
-        if (snt(i))
-            cout << i << " ";
-    }
-
-// Start add, Tung add fix bung 21
-
-
+    if (snt(b))
+        cout << b << " la so nguyen to!\n";
 }
