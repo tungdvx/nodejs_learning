@@ -20,3 +20,9 @@ END TRAINING 1, START TRAINING 2
 Tung da fix bug 11 o day
 
 // End add, Tung fix bug 11
+
+// Start add, Tung fix bug 12
+
+Tung da fix bug 12 o day
+
+// End add, Tung fix bug 12
