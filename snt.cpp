@@ -26,4 +26,17 @@ int main ()
 
     if (snt(n))
         cout << n << " la so nguyen to!\n";
+
+// Start add, Tung add fix bung 21
+
+    cout  << "Cac so nguyen to be hon " << n << " la:\n";
+    for (int i = 0; i < n ; i++)
+    {
+        if (snt(i))
+            cout << i << " ";
+    }
+
+// Start add, Tung add fix bung 21
+
+
 }
