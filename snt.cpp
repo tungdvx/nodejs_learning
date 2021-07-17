@@ -20,6 +20,10 @@ int snt (int n)
 
 int main ()
 {
+// Start add, Tung fix bug 20
+    int n;
+// Start add, Tung fix bug 20
+
     if (snt(n))
         cout << n << " la so nguyen to!\n";
 }
