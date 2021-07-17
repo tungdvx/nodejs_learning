@@ -1,3 +1,7 @@
 hello world!
 
 Tung da fix bug 1 o day
+
+TungDV fix tiep bug 2 o day
+
+TungDV fix tiep bug 3 o day
