@@ -26,7 +26,7 @@ int main ()
 
 // Start add, Tung fix bug 20
     int b;
-    cin >> b;
+    cin >> b >> n;
 // Start add, Tung fix bug 20
 
     if (snt(b))
