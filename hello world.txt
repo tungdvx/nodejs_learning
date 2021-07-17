@@ -26,3 +26,9 @@ Tung da fix bug 11 o day
 Tung da fix bug 12 o day
 
 // End add, Tung fix bug 12
+
+// Start add, Tung fix bug 13
+
+Tung da fix bug 13 o day
+
+// End add, Tung fix bug 13
