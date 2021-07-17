@@ -24,6 +24,10 @@ int main ()
     int n;
 // Start add, Tung fix bug 20
 
+// Start add, Tung fix bug 22
+    int m;
+// Start add, Tung fix bug 22
+
     if (snt(n))
         cout << n << " la so nguyen to!\n";
 
