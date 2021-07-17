@@ -1,3 +1,5 @@
 hello world!
 
 Tung da fix bug 5 o day
+
+Tung da fix bug 6 o day
